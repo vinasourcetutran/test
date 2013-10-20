@@ -11,7 +11,6 @@ namespace MvcApplication1.Controllers
         public ActionResult Index()
         {
             ViewBag.Message = "Welcome to ASfdg dfg dfP.NET MVC!";
-            sfdfsdfssdf sdfsda as fas
             return View();
         }
 
