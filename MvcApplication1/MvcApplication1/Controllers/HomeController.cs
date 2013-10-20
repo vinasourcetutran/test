@@ -11,6 +11,7 @@ namespace MvcApplication1.Controllers
         public ActionResult Index()
         {
             ViewBag.Message = "Welcome to ASP.NET MVC!";
+            ViewBag.Message = "Welcome to ASP.NET MVC!";
 
             return View();
         }
